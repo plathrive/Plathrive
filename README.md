@@ -1,4 +1,5 @@
 ## Hi there 👋
+🌱 I’m currently learning Python and planning to be a Back-End Developer.
 
 <!--
 **plathrive/Plathrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
