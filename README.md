@@ -1,6 +1,6 @@
-## Hi, I'm Rasyid!
-I’m currently learning Python and planning to be a Back-End Developer.
-Looking forward to see where this journey will take me, and I'm sure it's a pleasant one!
+# Hi, I'm Rasyid!
+- 📖 I’m currently learning Python and planning to be a Back-End Developer.
+- 🛣️ Looking forward to see where this journey will take me, and I'm sure it's a pleasant one!
 
 <!--
 **plathrive/Plathrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
