@@ -1,7 +1,11 @@
 ### Hi, I'm Rasyid!
-- 📖 I’m currently learning Python and planning to be a Back-End Developer.
+- 📖 I’m currently learning Python and (soon) Go in boot.dev. Planning to become a Back-End Developer. 
 - 🛣️ Looking forward to see where this journey will take me, and I'm sure it's a pleasant one!
 
+<br>
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/ac92d550-e031-4222-bf30-850db7630015/thumbnail" >
+</p>
 <!--
 **plathrive/Plathrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
