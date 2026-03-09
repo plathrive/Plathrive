@@ -1,6 +1,6 @@
 ### Hi, I'm Rasyid!
-- 📖 I’m currently learning Python and (soon) JS/TS in boot.dev. Planning to become a Fullstack Developer. 
-- 🛣️ Looking forward to see where this journey will take me, and I'm sure it's a pleasant one!
+- 📖 I’m currently learning Python and (soon) JS/TS in boot.dev. Planning to become a Fullstack Developer, for now. 
+- 📚 Interests : CS, Embedded Systems, Electronics and Electrical, Art Illustrations.
 
 <!--
 **plathrive/Plathrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
