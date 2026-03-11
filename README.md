@@ -1,5 +1,5 @@
 ### Hi, I'm Rasyid!
-- 📖 I’m currently learning Python and (soon) JS/TS in boot.dev. Planning to become a Fullstack Developer, for now. 
+- 📖 I’m currently learning Python and (soon) JS/TS in boot.dev.
 - 📚 Interests : CS, Embedded Systems, Electronics and Electrical, Art Illustrations.
 
 <!--
