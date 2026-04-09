@@ -1,5 +1,5 @@
 ### Hi, I'm Rasyid!
-- 📖 I’m currently learning Python and (soon) JS and Go in boot.dev.
+- 📖 I’m currently learning Python and Go in boot.dev.
 - 📚 Interests : CS, Embedded Systems, Electronics and Electrical, Art Illustrations.
 
 <!--
