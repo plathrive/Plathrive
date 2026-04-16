@@ -1,7 +1,7 @@
 ### Hi, I'm Rasyid!
 - 📖 I’m currently learning Python in boot.dev.
 - 📚 Interests : CS, Embedded Systems, Electronics and Electrical, Art Illustrations.
-
+- 💻 Prog. Language Roadmap : Python -> C -> Rust
 <!--
 **plathrive/Plathrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
