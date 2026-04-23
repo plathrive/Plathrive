@@ -1,5 +1,5 @@
 ### Hi, I'm Rasyid!
-Currently building with Python for web development, with a focus on expanding into C and Rust for low-level/embedded work.
+Currently building with Python in web development for side project. Focus on expanding into C and Rust for low-level/embedded work.
 <!--
 **plathrive/Plathrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
