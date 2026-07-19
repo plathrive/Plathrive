@@ -1,5 +1,7 @@
 ### Hi, I'm Rasyid!
-Currently building with Python in web development for side project. Focus on expanding into C and Rust for low-level/embedded work.
+"Friction, is what you need to reach greatness."
+Web Development Stack: Flask, SQL, Tailwind, JS.
+Future: Golang and Gamedev
 <!--
 **plathrive/Plathrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
