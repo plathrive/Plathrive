@@ -1,7 +1,7 @@
 ### Hi, I'm Rasyid!
-"Friction, is what you need to reach greatness."
-Web Development Stack: Flask, SQL, Tailwind, JS.
-Future: Golang and Gamedev
+- "Friction, is what you need to reach greatness."
+- Web Development Stack: Flask, SQL, Tailwind, JS.
+- Future: Golang and Gamedev
 <!--
 **plathrive/Plathrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
