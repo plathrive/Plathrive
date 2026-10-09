@@ -1,7 +1,7 @@
 ### Hi, I'm Rasyid!
-"How do you feel for not being accepted?"\n
-"I will pray to my Lord. All praise is due to Him for every blessing bestowed."\n
-"Friction, is what you need to reach greatness."
+#### "How do you feel for not being accepted?"
+#### "I will pray to my Lord. All praise is due to Him for every blessing bestowed."
+#### "Friction, is what you need to reach greatness."
  
 <!--
 **plathrive/Plathrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
