@@ -1,6 +1,6 @@
 ### Hi, I'm Rasyid!
-"How do you feel for not being accepted?" 
-"I will pray to my Lord. All praise is due to Him for every blessing bestowed." 
+"How do you feel for not being accepted?"\n
+"I will pray to my Lord. All praise is due to Him for every blessing bestowed."\n
 "Friction, is what you need to reach greatness."
  
 <!--
